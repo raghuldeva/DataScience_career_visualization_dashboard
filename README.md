@@ -16,15 +16,12 @@ The objective of this project is to scrutinize the companies which offer data sc
 •	Text Analytics
 •	Business Intelligence
 
+## Dashboard
+![Data Science Career Dashboard](https://user-images.githubusercontent.com/72026069/214529889-eba00411-30c5-42f1-a807-e83a703119ad.png)
+
+
+
 Live Dashboard Link
-
-
-
-
-
-
-
-
 
 ## 🔗 Links
 Live Dashbaord 
