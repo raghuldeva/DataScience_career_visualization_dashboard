@@ -21,7 +21,6 @@ The objective of this project is to scrutinize the companies which offer data sc
 •	Business Intelligence
 
 ## Overall Report
-![Data Science career guidance system video capture](https://user-images.githubusercontent.com/72026069/214533250-f6fc73f1-ee4e-49b9-adca-569ef558fd01.gif)
 
 
 ## Screenshot
