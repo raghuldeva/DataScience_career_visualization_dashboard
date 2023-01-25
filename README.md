@@ -24,7 +24,7 @@ The objective of this project is to scrutinize the companies which offer data sc
 ![](https://github.com/raghuldeva/DataScience_career_visualization_dashboard/blob/main/Resources/Data%20Science%20career%20guidance%20system%20video%20capture.gif)
 
 ## Screenshot
-![Data Science Career Dashboard](https://user-images.githubusercontent.com/72026069/214529889-eba00411-30c5-42f1-a807-e83a703119ad.png)
+![Data Science Career Dashboard](https://github.com/raghuldeva/DataScience_career_visualization_dashboard/blob/main/Resources/Data%20Science%20Career%20Dashboard.png)
 
 ## Insights
 
