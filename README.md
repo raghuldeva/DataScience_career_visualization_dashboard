@@ -28,8 +28,8 @@ The objective of this project is to scrutinize the companies which offer data sc
 
 ## Insights
 
-•	Data Administrator and Research Analyst are 100% Full Time job because they require more time to work with data
-• 51% of Jobs is from Bangalore since it is the electronic city and it has lot of job requirements
-• Among 199 companies in Bangalore 92 companies has positive review and 107 companies has negative reviews
-• Analyst has 4% contract jobs since most of them prefer freelancing or consulting jobs
-• Companies hiring feshers mostly looking for Analysis skills, PowerBI/Tableau, Flask, Machine Learning, Python
+•	Data Administrator and Research Analyst are 100% Full Time job because they require more time to work with data <br />
+• 51% of Jobs is from Bangalore since it is the electronic city and it has lot of job requirements <br />
+• Among 199 companies in Bangalore 92 companies has positive review and 107 companies has negative reviews <br />
+• Analyst has 4% contract jobs since most of them prefer freelancing or consulting jobs <br />
+• Companies hiring feshers mostly looking for Analysis skills, PowerBI/Tableau, Flask, Machine Learning, Python <br />
