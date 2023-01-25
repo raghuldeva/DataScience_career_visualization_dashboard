@@ -21,9 +21,15 @@ The objective of this project is to scrutinize the companies which offer data sc
 •	Business Intelligence
 
 ## Overall Report
-
+![](https://github.com/raghuldeva/DataScience_career_visualization_dashboard/blob/main/Resources/Data%20Science%20career%20guidance%20system%20video%20capture.gif)
 
 ## Screenshot
 ![Data Science Career Dashboard](https://user-images.githubusercontent.com/72026069/214529889-eba00411-30c5-42f1-a807-e83a703119ad.png)
 
+## Insights
 
+•	Data Administrator and Research Analyst are 100% Full Time job because they require more time to work with data
+• 51% of Jobs is from Bangalore since it is the electronic city and it has lot of job requirements
+• Among 199 companies in Bangalore 92 companies has positive review and 107 companies has negative reviews
+• Analyst has 4% contract jobs since most of them prefer freelancing or consulting jobs
+• Companies hiring feshers mostly looking for Analysis skills, PowerBI/Tableau, Flask, Machine Learning, Python
