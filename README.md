@@ -16,11 +16,15 @@ The objective of this project is to scrutinize the companies which offer data sc
 
 ## Phases Involved in the project
 
-•	Web Scraping
-•	Text Analytics
+•	Web Scraping <br />
+•	Text Analytics <br />
 •	Business Intelligence
 
-## Dashboard
+## Overall Report
+![Data Science career guidance system video capture](https://user-images.githubusercontent.com/72026069/214533250-f6fc73f1-ee4e-49b9-adca-569ef558fd01.gif)
+
+
+## Screenshot
 ![Data Science Career Dashboard](https://user-images.githubusercontent.com/72026069/214529889-eba00411-30c5-42f1-a807-e83a703119ad.png)
 
 
