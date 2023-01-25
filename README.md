@@ -1,6 +1,10 @@
 
 # Data Science Career Guidance System
 
+[PowerBi Report Link](https://www.novypro.com/project/datascienceanalyticsdashboard)
+
+## Project Overview
+
 This project is used to display the company review result score of a particular designation in data science domain for the desired location as per the user’s choice. The main objective of this project is to make jobseekers to make their career path to the right company within a short span of time using Business Intelligence as a technology. 	
 This project is divided into three parts: web scraping, text analytics and Data visualization. Initially job details related to search term ‘Data Science’ are scraped from www.simplyhired.co.in and company reviews are scraped from www.careerbliss.com. The scraped data are then loaded as data frame for text analytics which includes text processing techniques like tokenization, n-grams, stemming, lemmatization, sentiment analysis, etc. Finally, the processed text information is given as input for PowerBI which indeed displays a dashboard recommending the best company for job seekers.
 
@@ -19,11 +23,4 @@ The objective of this project is to scrutinize the companies which offer data sc
 ## Dashboard
 ![Data Science Career Dashboard](https://user-images.githubusercontent.com/72026069/214529889-eba00411-30c5-42f1-a807-e83a703119ad.png)
 
-
-
-Live Dashboard Link
-
-## 🔗 Links
-Live Dashbaord 
-(https://www.novypro.com/project/datascienceanalyticsdashboard)
 
